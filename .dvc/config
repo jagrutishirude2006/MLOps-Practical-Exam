@@ -1,4 +1,6 @@
 [core]
-    remote = localstorage
+    remote = myremote
 ['remote "localstorage"']
     url = ../../dvc-storage
+['remote "myremote"']
+    url = C:/Users/cheta/dvc-remote-storage
